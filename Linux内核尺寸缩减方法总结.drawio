@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-06T08:19:56.823Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="TNhCog5tCERfBaclK85O" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-06T08:40:53.288Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="_xAShsfvLvt4ro_0SyER" version="21.3.7" type="github">
   <diagram name="第 1 页" id="zZwxx3K8C3w1xwjBk0S7">
     <mxGraphModel dx="1793" dy="1451" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -54,6 +54,9 @@
         </mxCell>
         <mxCell id="niadmOFnp_dnT3OxzhgZ-18" value="分析技术的局限性" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="15" y="-58.5" width="149" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="qY9TFT-U_dUTNNjDmmYj-1" value="(软件适用方法)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-432" y="-28" width="131" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
