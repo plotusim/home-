@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2023-06-06T07:45:01.035Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" version="21.3.3" etag="MhkEkJ8vXM8nADnxwJtk" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-06T07:54:20.975Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="UoscAp7Zp2L3vnGc3rdb" version="21.3.3" type="github">
   <diagram name="第 1 页" id="zZwxx3K8C3w1xwjBk0S7">
-    <mxGraphModel>
+    <mxGraphModel dx="1793" dy="1451" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="niadmOFnp_dnT3OxzhgZ-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Linux内核尺寸缩减方法总结&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="-627" y="-471" width="272" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="niadmOFnp_dnT3OxzhgZ-3" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=16;size=0.38499984741210935;" vertex="1" parent="1">
+          <mxGeometry x="-481" y="-348" width="23" height="276" as="geometry" />
+        </mxCell>
+        <mxCell id="niadmOFnp_dnT3OxzhgZ-4" value="&lt;b&gt;目前常用方法&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-434" y="-343" width="117" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="niadmOFnp_dnT3OxzhgZ-5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;configuration-driven techniques&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-293" y="-348.5" width="301" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
